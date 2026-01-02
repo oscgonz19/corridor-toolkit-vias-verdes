@@ -1,0 +1,112 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ruff
+.ruff_cache/
+
+# Project specific
+temp_kml*/
+outputs/
+examples/demo_data/
+examples/demo_outputs/
+
+# Real project data (not for public repo)
+*.kmz
+*.gpkg
+*.geojson
+salidas_*/
+capas_editadas/
+registros/
+tablas_limpias/
+vias_verdes_v2/
+
+# Real CSV data files
+exploracion_*.csv
+sondeos_*.csv
+promedios_*.csv
+
+# Legacy notebooks with real data
+mapas_vias_verdes.ipynb
+geology.ipynb
+
+# Generated files
+*.dxf
+*.png
+!docs/**/*.png
+
+# OS
+.DS_Store
+Thumbs.db
