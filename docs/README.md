@@ -12,7 +12,8 @@
 | [Case Study](en/case_study.md) | Real-world application, before/after, lessons learned |
 | [Pipeline Explained](en/pipeline_explained.md) | Step-by-step processing guide with code examples |
 | [Mathematical Formulas](en/mathematical_formulas.md) | Geometric foundations, algorithms, equations |
-| [Technical Report](en/technical_report.md) | Full system architecture, data models, API reference |
+| [Technical Report](en/technical_report.md) | Full system architecture, data models |
+| [**API Reference**](en/api_reference.md) | Complete function/class documentation (SOLID) |
 
 ---
 
@@ -24,7 +25,8 @@
 | [Caso de Estudio](es/case_study.md) | Aplicación real, antes/después, lecciones aprendidas |
 | [Pipeline Explicado](es/pipeline_explained.md) | Guía paso a paso con ejemplos de código |
 | [Fórmulas Matemáticas](es/mathematical_formulas.md) | Fundamentos geométricos, algoritmos, ecuaciones |
-| [Informe Técnico](es/technical_report.md) | Arquitectura completa, modelos de datos, referencia API |
+| [Informe Técnico](es/technical_report.md) | Arquitectura completa, modelos de datos |
+| [**Referencia API**](es/api_reference.md) | Documentación completa de funciones/clases (SOLID) |
 
 ---
 
